@@ -1,0 +1,18 @@
+AccountDetail:
+	- userId
+  	- firstName
+  	- lastName
+	
+
+ Address:
+  	- addressLine1
+  	- city
+  	- state
+  	- pincode
+  	- country
+  
+CreditCard:
+	- cardNumber
+  	- cvv
+  	- expDate
+  

@@ -1,0 +1,17 @@
+{
+  "userId": "abc",
+  "firstName": "Saurabh",
+  "lastName": "Gupta",
+  "address": {
+    "addressLine1": "Noida City Center",
+    "city": "Noida",
+    "state": "UP",
+    "pincode": "India",
+    "country": "20310"
+  },
+  "creditCardDetail": {
+    "cardNumber": "1234567890123456",
+    "cvv": "123",
+    "expDate": "12/90"
+  }
+}
